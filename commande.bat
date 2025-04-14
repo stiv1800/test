@@ -1,2 +1,2 @@
 start cmd
-pause
+start cmd
