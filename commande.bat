@@ -1,2 +1,1 @@
-start cmd
-start cmd
+exit
